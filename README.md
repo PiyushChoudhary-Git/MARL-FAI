@@ -132,6 +132,3 @@ Controls: Space play/pause, Left/Right step, R restart, 1-4 NPC perspective, V e
 P belief heatmap, +/- speed, Tab next replay, Esc exit. `python -m pursuit.cli export-demo` rebuilds the demo animation
 and the keyframe screenshots from the recorded scenes.
 
-## Layout
-`src/pursuit/{env,controllers,models,opponents,training,evaluation,rendering}`, `configs/`, `maps/`, `tests/`,
-`artifacts/{figures,results}`, `report.pdf`.
